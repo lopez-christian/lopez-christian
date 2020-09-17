@@ -6,7 +6,7 @@ My name is Christian Lopez 👨🏽. Currently residing in Las Vegas, Nevada �
 
 Feel free to reach out or visit my blog at https://lopez-christian.github.io/ 
 
-Oh, and I also love anything soccer-related and sports in general. So, lets talk futbol as well ⚽️. 
+Oh, and I also love anything soccer-related and sports in general. So, lets talk some futbol ⚽️. 
 
 <!--
 **lopez-christian/lopez-christian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
